@@ -3,3 +3,12 @@
 /BackupUnusedAssets/
 /Logs/
 /UserSettings/
+
+# C# project files
+*.csproj
+*.sln
+
+# Unity generated files
+referenceType2File.xml
+referencemap.xml
+.vsconfig
