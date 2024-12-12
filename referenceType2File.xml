@@ -1,0 +1,2035 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTypeDate xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TypeDate>
+    <guid>5ecdc359fc7b7e448a5aa6433eafcb8b</guid>
+    <fileName>Assets/Plugins/NativeFilePicker/NativeFilePicker.cs</fileName>
+    <timeStamp>2023-12-09T15:28:13+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>41423473566db0b4ebd62882996f08bc</guid>
+    <fileName>Assets/Plugins/NativeFilePicker/Android/FPCallbackHelper.cs</fileName>
+    <timeStamp>2023-12-09T15:28:12+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5f8c2de0178a90140b030975551436a5</guid>
+    <fileName>Assets/Plugins/NativeFilePicker/Android/FPPermissionCallbackAndroid.cs</fileName>
+    <timeStamp>2023-12-09T15:28:13+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f43d316f7eb1cdf4abcf327a1fbc025b</guid>
+    <fileName>Assets/Plugins/NativeFilePicker/Android/FPResultCallbackAndroid.cs</fileName>
+    <timeStamp>2023-12-09T15:28:14+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f281670325986984c95fde82c23195e0</guid>
+    <fileName>Assets/Plugins/NativeFilePicker/Editor/NativeFilePickerCustomTypes.cs</fileName>
+    <timeStamp>2022-12-17T07:18:14+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d466ecf51c239f9419715f6b59348d6c</guid>
+    <fileName>Assets/Plugins/NativeFilePicker/Editor/NativeFilePickerPostProcessBuild.cs</fileName>
+    <timeStamp>2022-12-17T07:18:13+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b11d2999e16ca864f8974988d73c2017</guid>
+    <fileName>Assets/Plugins/NativeFilePicker/iOS/FPResultCallbackiOS.cs</fileName>
+    <timeStamp>2022-12-17T07:18:13+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>290f04079ebef0c4f8f876ed078a748b</guid>
+    <fileName>Assets/Plugins/unity-sweeper-main/UnitySweeper/Editor/AssetCollector.cs</fileName>
+    <timeStamp>2023-07-02T15:22:42.3677283+01:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.AssetCollector</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>20a706cde1ffcf848b383eea5c270d4c</guid>
+    <fileName>Assets/Plugins/unity-sweeper-main/UnitySweeper/Editor/AssetReferenceCollection.cs</fileName>
+    <timeStamp>2023-07-02T15:22:42.3779662+01:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.AssetReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d08abc26077b0a141a3c218e74f5e3c6</guid>
+    <fileName>Assets/Plugins/unity-sweeper-main/UnitySweeper/Editor/ClassReferenceCollection.cs</fileName>
+    <timeStamp>2023-07-02T15:22:42.3875634+01:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.ClassReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fa6b85b9343483444871f480e2fb1d84</guid>
+    <fileName>Assets/Plugins/unity-sweeper-main/UnitySweeper/Editor/CollectionData.cs</fileName>
+    <timeStamp>2023-07-02T15:22:42.3972115+01:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.CollectionData</string>
+      <string>UnitySweeper.TypeDate</string>
+      <string>UnitySweeper.IReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f0f534f2d5f33cf428892b2c6ab757d5</guid>
+    <fileName>Assets/Plugins/unity-sweeper-main/UnitySweeper/Editor/FindUnusedAssetsWindow.cs</fileName>
+    <timeStamp>2023-07-02T15:22:42.4072437+01:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.FindUnusedAssetsWindow</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>13ddf57517a2d9641ae5faaced72ea4b</guid>
+    <fileName>Assets/Plugins/unity-sweeper-main/UnitySweeper/Editor/ShaderReferenceCollection.cs</fileName>
+    <timeStamp>2023-07-02T15:22:42.4194769+01:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.ShaderReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>683e90f239f8a2b42b3533e9316fd5f3</guid>
+    <fileName>Assets/Plugins/CW/LeanCommon/Extras/Scripts/LeanDestroy.cs</fileName>
+    <timeStamp>2022-11-11T02:46:28+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b7efa857135ee3242bb57cd8a91087c8</guid>
+    <fileName>Assets/Plugins/CW/LeanCommon/Extras/Scripts/LeanFormatString.cs</fileName>
+    <timeStamp>2022-11-11T02:46:54+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f3b515ca1c988ce43853bd6120e9b94b</guid>
+    <fileName>Assets/Plugins/CW/LeanCommon/Extras/Scripts/LeanPath.cs</fileName>
+    <timeStamp>2022-11-11T02:47:17+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e167f5141e8fbbb429990fdd6dca01c5</guid>
+    <fileName>Assets/Plugins/CW/LeanCommon/Extras/Scripts/LeanPlane.cs</fileName>
+    <timeStamp>2022-11-11T02:47:10+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>44eecfd2f8136f94caff1a3e1238c023</guid>
+    <fileName>Assets/Plugins/CW/LeanCommon/Extras/Scripts/LeanRoll.cs</fileName>
+    <timeStamp>2022-11-11T02:46:18+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d63d4be4bed5744479160ea1148b5821</guid>
+    <fileName>Assets/Plugins/CW/LeanCommon/Extras/Scripts/LeanSelect.cs</fileName>
+    <timeStamp>2022-11-11T02:47:04+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>02e37bf9d23704849b6d4bb2fae198be</guid>
+    <fileName>Assets/Plugins/CW/LeanCommon/Extras/Scripts/LeanSelectable.cs</fileName>
+    <timeStamp>2022-11-11T02:45:55+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e79fdb2e0edc7c244ae6ee18c7f7cba7</guid>
+    <fileName>Assets/Plugins/CW/LeanCommon/Extras/Scripts/LeanSelectableBehaviour.cs</fileName>
+    <timeStamp>2022-11-11T02:47:11+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0e3837cd44482a8459c76be5c56a41d3</guid>
+    <fileName>Assets/Plugins/CW/LeanCommon/Extras/Scripts/LeanSelectableGraphicColor.cs</fileName>
+    <timeStamp>2022-11-11T02:45:59+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2baa936f016a9a14e86ac8ea42211f4a</guid>
+    <fileName>Assets/Plugins/CW/LeanCommon/Extras/Scripts/LeanSelectableRendererColor.cs</fileName>
+    <timeStamp>2022-11-11T02:46:08+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a45146ec471801c4dbce44f8dd62608f</guid>
+    <fileName>Assets/Plugins/CW/LeanCommon/Extras/Scripts/LeanSelectableSpriteRendererColor.cs</fileName>
+    <timeStamp>2022-11-11T02:46:48+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3bb775feca211c748b48cd3f9b59a4cf</guid>
+    <fileName>Assets/Plugins/CW/LeanCommon/Extras/Scripts/LeanSpawn.cs</fileName>
+    <timeStamp>2022-11-11T02:46:13+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>71acd53a4d3c862458c36986688e1214</guid>
+    <fileName>Assets/Plugins/CW/LeanCommon/Required/Scripts/LeanCommon.cs</fileName>
+    <timeStamp>2022-11-11T02:46:32+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>81fef0563e898f74f87bcb68d10688aa</guid>
+    <fileName>Assets/Plugins/CW/LeanGUI/Required/Scripts/LeanButton.cs</fileName>
+    <timeStamp>2022-11-11T02:46:37+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7df474a8f97f6414fb888ed3a540e50d</guid>
+    <fileName>Assets/Plugins/CW/LeanGUI/Required/Scripts/LeanConstrainAnchoredPosition.cs</fileName>
+    <timeStamp>2022-11-11T02:46:36+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7c7a98e781356774db300f14898e7a55</guid>
+    <fileName>Assets/Plugins/CW/LeanGUI/Required/Scripts/LeanConstrainToParent.cs</fileName>
+    <timeStamp>2022-11-11T02:46:36+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>33acb5beccb76d843a0d65d291829334</guid>
+    <fileName>Assets/Plugins/CW/LeanGUI/Required/Scripts/LeanDrag.cs</fileName>
+    <timeStamp>2022-11-11T02:46:11+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1f5dbc70e6fc9d743b3be1aeeb2ca618</guid>
+    <fileName>Assets/Plugins/CW/LeanGUI/Required/Scripts/LeanGui.cs</fileName>
+    <timeStamp>2022-11-11T02:46:03+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>adaafae7dd8b068499f146136f283183</guid>
+    <fileName>Assets/Plugins/CW/LeanGUI/Required/Scripts/LeanHitbox.cs</fileName>
+    <timeStamp>2022-11-11T02:46:52+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>81251c8502f22ab44a181c96013eb610</guid>
+    <fileName>Assets/Plugins/CW/LeanGUI/Required/Scripts/LeanHover.cs</fileName>
+    <timeStamp>2022-11-11T02:46:37+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c039d02e653dbb746abea71ba5c14eae</guid>
+    <fileName>Assets/Plugins/CW/LeanGUI/Required/Scripts/LeanJoystick.cs</fileName>
+    <timeStamp>2022-11-11T02:46:56+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e84a163c128913048b445b0d2e2c3cd5</guid>
+    <fileName>Assets/Plugins/CW/LeanGUI/Required/Scripts/LeanJoystickKey.cs</fileName>
+    <timeStamp>2022-11-11T02:47:12+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c7764d936b8cbcc459d106246765db0f</guid>
+    <fileName>Assets/Plugins/CW/LeanGUI/Required/Scripts/LeanMoveToTop.cs</fileName>
+    <timeStamp>2022-11-11T02:47:00+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>70267be151ab8134894a195db0d4accc</guid>
+    <fileName>Assets/Plugins/CW/LeanGUI/Required/Scripts/LeanOrientation.cs</fileName>
+    <timeStamp>2022-11-11T02:46:31+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7fdf9a6ea50fc2c4496205af91d278e8</guid>
+    <fileName>Assets/Plugins/CW/LeanGUI/Required/Scripts/LeanPulse.cs</fileName>
+    <timeStamp>2022-11-11T02:46:37+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2023b896d66d32d429ad3f2233bec18a</guid>
+    <fileName>Assets/Plugins/CW/LeanGUI/Required/Scripts/LeanResize.cs</fileName>
+    <timeStamp>2022-11-11T02:46:04+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>48aede02132052f43b18cd5f14aa2294</guid>
+    <fileName>Assets/Plugins/CW/LeanGUI/Required/Scripts/LeanSafeArea.cs</fileName>
+    <timeStamp>2022-11-11T02:46:20+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6fe6ceffad2d68b489dc1cf0fe181ba6</guid>
+    <fileName>Assets/Plugins/CW/LeanGUI/Required/Scripts/LeanSelectable.cs</fileName>
+    <timeStamp>2022-11-11T02:46:30+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>57b22b78cc83d05408528ab8fd30f683</guid>
+    <fileName>Assets/Plugins/CW/LeanGUI/Required/Scripts/LeanSelection.cs</fileName>
+    <timeStamp>2022-11-11T02:46:25+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c5851bd95d440f6438ab1a40f12538a5</guid>
+    <fileName>Assets/Plugins/CW/LeanGUI/Required/Scripts/LeanSelectionHighlight.cs</fileName>
+    <timeStamp>2022-11-11T02:46:59+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>52b671c36c7f1b341aa7e17b35fa4dea</guid>
+    <fileName>Assets/Plugins/CW/LeanGUI/Required/Scripts/LeanSelectionManager.cs</fileName>
+    <timeStamp>2022-11-11T02:46:24+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>51244c4aeffb9144bb356da7095e99a7</guid>
+    <fileName>Assets/Plugins/CW/LeanGUI/Required/Scripts/LeanSelectionPriority.cs</fileName>
+    <timeStamp>2022-11-11T02:46:24+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ea3d039e2a77ffd42a7c3bd2a21c98ca</guid>
+    <fileName>Assets/Plugins/CW/LeanGUI/Required/Scripts/LeanShake.cs</fileName>
+    <timeStamp>2022-11-11T02:47:13+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1c6b3f7e0eac6e84b8ae115c0d97ba85</guid>
+    <fileName>Assets/Plugins/CW/LeanGUI/Required/Scripts/LeanSizer.cs</fileName>
+    <timeStamp>2022-11-11T02:46:02+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>48577e8e13eb68f478df3e41ddbfd82f</guid>
+    <fileName>Assets/Plugins/CW/LeanGUI/Required/Scripts/LeanSnap.cs</fileName>
+    <timeStamp>2022-11-11T02:46:19+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9db1d02cb3c0714409ef141af568e83c</guid>
+    <fileName>Assets/Plugins/CW/LeanGUI/Required/Scripts/LeanSnapEvent.cs</fileName>
+    <timeStamp>2022-11-11T02:46:46+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3ead18550e735a04c9d845cc7df76f37</guid>
+    <fileName>Assets/Plugins/CW/LeanGUI/Required/Scripts/LeanSwipe.cs</fileName>
+    <timeStamp>2022-11-11T02:46:16+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>777167f8c06fd6545b8a89501a72cab7</guid>
+    <fileName>Assets/Plugins/CW/LeanGUI/Required/Scripts/LeanSwitch.cs</fileName>
+    <timeStamp>2022-11-11T02:46:34+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0c66d284d9a82ee4ca480f0ae8d2805b</guid>
+    <fileName>Assets/Plugins/CW/LeanGUI/Required/Scripts/LeanToggle.cs</fileName>
+    <timeStamp>2023-04-30T17:38:44+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4bfb731b4c43237459e67dd32a3dd5ca</guid>
+    <fileName>Assets/Plugins/CW/LeanGUI/Required/Scripts/LeanTooltip.cs</fileName>
+    <timeStamp>2022-11-11T02:46:21+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0ed695b998b0cb44b9cb978b10fd70b4</guid>
+    <fileName>Assets/Plugins/CW/LeanGUI/Required/Scripts/LeanTooltipData.cs</fileName>
+    <timeStamp>2022-11-11T02:45:59+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b4fd146527b61614a96da3a84e74ad78</guid>
+    <fileName>Assets/Plugins/CW/LeanGUI/Required/Scripts/LeanWindow.cs</fileName>
+    <timeStamp>2022-11-11T02:46:53+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>fb0952d968aa2274588b3c20c4dfa5ec</guid>
+    <fileName>Assets/Plugins/CW/LeanGUI/Required/Scripts/LeanWindowCloser.cs</fileName>
+    <timeStamp>2022-11-11T02:47:20+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c722bdf04c5659a4d8c6d4e3f5279af2</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Examples/Scripts/RepeatFromCode.cs</fileName>
+    <timeStamp>2022-11-11T02:46:59+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>32fb805bb9af68540bb3ea982122bfd3</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Extras/Scripts/LeanAnimationRepeater.cs</fileName>
+    <timeStamp>2022-11-11T02:46:10+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>dbf9e69020890af4aada5ea4a80cf7f3</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Extras/Scripts/LeanManualAnimation.cs</fileName>
+    <timeStamp>2022-11-11T02:47:07+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3cd6f80dc77a38d47b92c9a667c1b8df</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Methods/LeanDelay.cs</fileName>
+    <timeStamp>2022-11-11T02:46:15+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1955a79d82398b646945792cb210ac21</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Methods/LeanEvent.cs</fileName>
+    <timeStamp>2022-11-11T02:46:02+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>bde92862f5ad1a849ac07600b2850fe1</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Methods/LeanGet.cs</fileName>
+    <timeStamp>2022-11-11T02:46:55+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>79a77f44fe76fa745982bd24ed8b709d</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Methods/LeanInsert.cs</fileName>
+    <timeStamp>2022-11-11T02:46:35+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e827904b3dee129429b801767788c28a</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Methods/LeanJoin.cs</fileName>
+    <timeStamp>2022-11-11T02:47:12+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8b9fc21c8e2bf09498bc4523fe015d04</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Methods/LeanJoinDelay.cs</fileName>
+    <timeStamp>2022-11-11T02:46:41+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>379317c0c27f53249a472249e64bc2e3</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Methods/LeanJoinInsert.cs</fileName>
+    <timeStamp>2022-11-11T02:46:11+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>85492e6e5abb6364ab68b8b794f4fd97</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Methods/LeanPlaySound.cs</fileName>
+    <timeStamp>2022-11-11T02:46:39+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>703c46efa715f734eb2c6721498a696c</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Methods/LeanQueue.cs</fileName>
+    <timeStamp>2022-11-11T02:46:31+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d87455ce2603f1b4a8a2b1e57b413511</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Methods/LeanTime.cs</fileName>
+    <timeStamp>2022-11-11T02:47:05+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2af6529109d8a07498faada89111e0f1</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Methods/LeanTimeScale.cs</fileName>
+    <timeStamp>2022-11-11T02:46:07+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>44371e830b20c9942b604a531ae93355</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Scripts/LeanEase.cs</fileName>
+    <timeStamp>2022-11-11T02:46:17+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>21f2d6b2f65001e48a0c629685db4bbc</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Scripts/LeanMethod.cs</fileName>
+    <timeStamp>2022-11-11T02:46:04+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>abf1e53a036583f4db1eca5bcfb0c922</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Scripts/LeanPlayer.cs</fileName>
+    <timeStamp>2022-11-11T02:46:51+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ce5d8a202956f9644a1018e204047f78</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Scripts/LeanState.cs</fileName>
+    <timeStamp>2022-11-11T02:47:01+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4dd26b0fddefa6743b87c39be9a7b654</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Scripts/LeanStateWithTarget.cs</fileName>
+    <timeStamp>2022-11-11T02:46:23+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>70ddec993b5da3c4eafe850846fe0d26</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Scripts/LeanTiming.cs</fileName>
+    <timeStamp>2022-11-11T02:46:31+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>217c8e972fc1ae74abf64e3200253b45</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Scripts/LeanTransition.cs</fileName>
+    <timeStamp>2022-11-11T02:46:04+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a5545acbf3507bc44ad0dbb5454900f1</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Editor/Scripts/LeanBuilder.cs</fileName>
+    <timeStamp>2022-11-11T02:46:48+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a0e5d060f45ca564cba1173332d781d0</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Editor/Scripts/LeanTemplate.cs</fileName>
+    <timeStamp>2022-11-11T02:46:46+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>863a1937bfc2dfe439fe6bd9ee84825c</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Methods/AudioSource/LeanAudioSourcePanStereo.cs</fileName>
+    <timeStamp>2022-11-11T02:46:39+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b30bbb5e1b0a5ea4885497974c3bec1b</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Methods/AudioSource/LeanAudioSourcePitch.cs</fileName>
+    <timeStamp>2022-11-11T02:46:53+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e81030f4ff1715f4bbf34d993596a39a</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Methods/AudioSource/LeanAudioSourceSpatialBlend.cs</fileName>
+    <timeStamp>2022-11-11T02:47:12+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4bdb8049813ee104caf449e59bf08e64</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Methods/AudioSource/LeanAudioSourceVolume.cs</fileName>
+    <timeStamp>2022-11-11T02:46:21+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>235a7be74c34dce49a5d656db9f6d7f5</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Methods/CanvasGroup/LeanCanvasGroupAlpha.cs</fileName>
+    <timeStamp>2022-11-11T02:46:05+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>22a4ece327d664548972fce3ed29ab53</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Methods/CanvasGroup/LeanCanvasGroupBlocksRaycasts.cs</fileName>
+    <timeStamp>2022-11-11T02:46:05+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>837dfac66bd1bd44dbdf0ef9a2f54eae</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Methods/CanvasGroup/LeanCanvasGroupInteractable.cs</fileName>
+    <timeStamp>2022-11-11T02:46:38+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>98cb3d5af56169a478254097a58732ec</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Methods/GameObject/LeanGameObjectSetActive.cs</fileName>
+    <timeStamp>2022-11-11T02:46:44+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>73ac2062a3d7ad54abdcf2672edae623</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Methods/Graphic/LeanGraphicColor.cs</fileName>
+    <timeStamp>2022-11-11T02:46:33+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>172de61f316f44748b4e624963e7305b</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Methods/Image/LeanImageFillAmount.cs</fileName>
+    <timeStamp>2022-11-11T02:46:01+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>eda8d49bf2705b44d94cba41fa1b24b5</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Methods/Light/LeanLightColor.cs</fileName>
+    <timeStamp>2022-11-11T02:47:14+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a9e93286d8c323441ab3657525d1a650</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Methods/Light/LeanLightIntensity.cs</fileName>
+    <timeStamp>2022-11-11T02:46:51+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6ed73ce6a5057ac42b7ac35005223ce2</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Methods/Light/LeanLightRange.cs</fileName>
+    <timeStamp>2022-11-11T02:46:30+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>de318569d1af2244984ad157b77c21f0</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Methods/Material/LeanMaterialColor.cs</fileName>
+    <timeStamp>2022-11-11T02:47:08+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f062dbbd1c6df6f4fb135c5e3a75f517</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Methods/Material/LeanMaterialFloat.cs</fileName>
+    <timeStamp>2022-11-11T02:47:15+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2e3783fedc9f546418296a9a321b15ea</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Methods/Material/LeanMaterialVector.cs</fileName>
+    <timeStamp>2022-11-11T02:46:09+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>75d95d2a1da8e3347937a20069bb4890</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Methods/RectTransform/LeanRectTransformAnchoredPosition.cs</fileName>
+    <timeStamp>2022-11-11T02:46:34+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>aef1e51e0b7eae0458ddbb10249d2f0e</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Methods/RectTransform/LeanRectTransformAnchoredPosition_x.cs</fileName>
+    <timeStamp>2022-11-11T02:46:52+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3c2fbc22786e7c54c8d600aa92b118d1</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Methods/RectTransform/LeanRectTransformAnchoredPosition_y.cs</fileName>
+    <timeStamp>2022-11-11T02:46:14+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3713918366413e849b1a0f91e999dfc9</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Methods/RectTransform/LeanRectTransformAnchorMax.cs</fileName>
+    <timeStamp>2022-11-11T02:46:11+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>68b4ae2696c602a4e95051bd68cfcc15</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Methods/RectTransform/LeanRectTransformAnchorMax_x.cs</fileName>
+    <timeStamp>2022-11-11T02:46:28+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6789a40e49a843648bfd2d5eadde52e6</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Methods/RectTransform/LeanRectTransformAnchorMax_y.cs</fileName>
+    <timeStamp>2022-11-11T02:46:28+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d19cee18dbacf284cb952e8002d10949</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Methods/RectTransform/LeanRectTransformAnchorMin.cs</fileName>
+    <timeStamp>2022-11-11T02:47:03+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1f9e7967ac759254894e84646b51836f</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Methods/RectTransform/LeanRectTransformAnchorMin_x.cs</fileName>
+    <timeStamp>2022-11-11T02:46:03+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>12646525d8d9d0e46b1422d6aa1fa4d0</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Methods/RectTransform/LeanRectTransformAnchorMin_y.cs</fileName>
+    <timeStamp>2022-11-11T02:46:01+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f96c6bd0464385b43955646aeef021a6</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Methods/RectTransform/LeanRectTransformOffsetMax.cs</fileName>
+    <timeStamp>2022-11-11T02:47:19+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ace6402481ba1004885814b3c9d2ee23</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Methods/RectTransform/LeanRectTransformOffsetMax_x.cs</fileName>
+    <timeStamp>2022-11-11T02:46:51+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c48b879f6ac3e834d8cf0a85de7eaa8e</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Methods/RectTransform/LeanRectTransformOffsetMax_y.cs</fileName>
+    <timeStamp>2022-11-11T02:46:58+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>13782e1441510494eade4c588da9bbba</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Methods/RectTransform/LeanRectTransformOffsetMin.cs</fileName>
+    <timeStamp>2022-11-11T02:46:01+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9981e3bf10d06cc40bc97848a69ebbac</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Methods/RectTransform/LeanRectTransformOffsetMin_x.cs</fileName>
+    <timeStamp>2022-11-11T02:46:45+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2e1c414089c52334496889973ff0fb87</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Methods/RectTransform/LeanRectTransformOffsetMin_y.cs</fileName>
+    <timeStamp>2022-11-11T02:46:09+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ccae4d1bd9ca7f145806075df8feb578</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Methods/RectTransform/LeanRectTransformPivot.cs</fileName>
+    <timeStamp>2022-11-11T02:47:00+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>48d33245ed00fd448ae61eacf49ed543</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Methods/RectTransform/LeanRectTransformPivot_x.cs</fileName>
+    <timeStamp>2022-11-11T02:46:20+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>28b008f428f312845a1aa67d020ffc56</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Methods/RectTransform/LeanRectTransformPivot_y.cs</fileName>
+    <timeStamp>2022-11-11T02:46:06+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f79774bb3598df444a54d490c588396a</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Methods/RectTransform/LeanRectTransformSetAsLastSibling.cs</fileName>
+    <timeStamp>2022-11-11T02:47:18+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>daff317b864c1d2409cea51fb21ce432</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Methods/RectTransform/LeanRectTransformSizeDelta.cs</fileName>
+    <timeStamp>2022-11-11T02:47:06+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9d9342767dededb4da09ddfdee9fe801</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Methods/RectTransform/LeanRectTransformSizeDelta_x.cs</fileName>
+    <timeStamp>2022-11-11T02:46:45+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3baf2f40d1ed44c4981f88db0df49b4c</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Methods/RectTransform/LeanRectTransformSizeDelta_y.cs</fileName>
+    <timeStamp>2022-11-11T02:46:13+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a8478fb9b74c9234494c55c4b2bdb221</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Methods/SpriteRenderer/LeanSpriteRendererColor.cs</fileName>
+    <timeStamp>2022-11-11T02:46:50+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e26a07043aee0a44884e87ca54dd4d74</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Methods/Transform/LeanTransformEulerAngles.cs</fileName>
+    <timeStamp>2022-11-11T02:47:10+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2c4de0c056dda5f44a81075b99ef1650</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Methods/Transform/LeanTransformLocalEulerAngles.cs</fileName>
+    <timeStamp>2022-11-11T02:46:08+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>46134d5d2184a6346bc39a3825f5bb69</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Methods/Transform/LeanTransformLocalPosition.cs</fileName>
+    <timeStamp>2022-11-11T02:46:19+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1fe11fbefad5c2f4bb3659907f88a56c</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Methods/Transform/LeanTransformLocalPosition_x.cs</fileName>
+    <timeStamp>2022-11-11T02:46:03+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d2257f53d31da2e4b95e46be43d3bfee</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Methods/Transform/LeanTransformLocalPosition_xy.cs</fileName>
+    <timeStamp>2022-11-11T02:47:03+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4386671bae856aa48b1284f819775b70</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Methods/Transform/LeanTransformLocalPosition_y.cs</fileName>
+    <timeStamp>2022-11-11T02:46:17+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4e56926094af5e047ba9942a7d7ae1c2</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Methods/Transform/LeanTransformLocalPosition_z.cs</fileName>
+    <timeStamp>2022-11-11T02:46:23+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a86227b3811b7ff47970b1b6a14ac4a4</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Methods/Transform/LeanTransformLocalRotation.cs</fileName>
+    <timeStamp>2022-11-11T02:46:50+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>09dc0e2cec2a59b4189aec33c4b34a76</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Methods/Transform/LeanTransformLocalScale.cs</fileName>
+    <timeStamp>2022-11-11T02:45:57+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9916590f0a2e9894bb2bd9ebc3440662</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Methods/Transform/LeanTransformLocalScale_x.cs</fileName>
+    <timeStamp>2022-11-11T02:46:44+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>831f3c2dd0e5a154aa757f28aa473dfe</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Methods/Transform/LeanTransformLocalScale_xy.cs</fileName>
+    <timeStamp>2022-11-11T02:46:38+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>904b18a6143d7674dbca960be0e59ab5</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Methods/Transform/LeanTransformLocalScale_y.cs</fileName>
+    <timeStamp>2022-11-11T02:46:42+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e555cc0d880d6804bae3bd6a69e306e3</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Methods/Transform/LeanTransformLocalScale_z.cs</fileName>
+    <timeStamp>2022-11-11T02:47:11+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>24edec1135756814abebee61c4ac01e1</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Methods/Transform/LeanTransformPosition.cs</fileName>
+    <timeStamp>2022-11-11T02:46:06+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7ebaafbe58308374b8b188431364b793</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Methods/Transform/LeanTransformPosition_x.cs</fileName>
+    <timeStamp>2022-11-11T02:46:36+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c705e0806738eba4c940e2b1fb0749f6</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Methods/Transform/LeanTransformPosition_xy.cs</fileName>
+    <timeStamp>2022-11-11T02:46:59+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d2d78147dae31894e9a35c2a03656f6a</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Methods/Transform/LeanTransformPosition_y.cs</fileName>
+    <timeStamp>2022-11-11T02:47:03+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>dc04a18c71c674d4a8b2e50ef13f703d</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Methods/Transform/LeanTransformPosition_z.cs</fileName>
+    <timeStamp>2022-11-11T02:47:08+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>24730143705d2904fb9118a99ecb4acb</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Methods/Transform/LeanTransformRotate.cs</fileName>
+    <timeStamp>2022-11-11T02:46:05+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ae3f6eb81f2e58e40a18b01dbf7695e9</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Methods/Transform/LeanTransformRotation.cs</fileName>
+    <timeStamp>2022-11-11T02:46:52+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>25d1eb4f484dd9c4d900cbe1de2c5d4d</guid>
+    <fileName>Assets/Plugins/CW/LeanTransition/Required/Methods/Transform/LeanTransformTranslate.cs</fileName>
+    <timeStamp>2022-11-11T02:46:06+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8f6d5316b170fe34e886c05572b3006e</guid>
+    <fileName>Assets/Plugins/CW/Shared/Common/Examples/Scripts/CwCameraLook.cs</fileName>
+    <timeStamp>2022-11-11T02:46:42+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4cabc7c514a17ca41a6c62cc43dcb94d</guid>
+    <fileName>Assets/Plugins/CW/Shared/Common/Examples/Scripts/CwCameraMove.cs</fileName>
+    <timeStamp>2022-11-11T02:46:22+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4c5a919098a173e40a35fd1c493ae39e</guid>
+    <fileName>Assets/Plugins/CW/Shared/Common/Examples/Scripts/CwCameraPivot.cs</fileName>
+    <timeStamp>2022-11-11T02:46:21+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a5270a8e97f926a4bbcf95d4fa31866d</guid>
+    <fileName>Assets/Plugins/CW/Shared/Common/Examples/Scripts/CwDemo.cs</fileName>
+    <timeStamp>2022-11-11T02:46:48+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>207d6a51d513da54db00bf553470072f</guid>
+    <fileName>Assets/Plugins/CW/Shared/Common/Examples/Scripts/CwDemoButton.cs</fileName>
+    <timeStamp>2022-11-11T02:46:04+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ee2055732bd5a4a4a8f4fe43e20eca6e</guid>
+    <fileName>Assets/Plugins/CW/Shared/Common/Examples/Scripts/CwDemoButtonBuilder.cs</fileName>
+    <timeStamp>2022-11-11T02:47:15+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1c97b30f38749284eab37996f9f5bd2a</guid>
+    <fileName>Assets/Plugins/CW/Shared/Common/Examples/Scripts/CwLightIntensity.cs</fileName>
+    <timeStamp>2022-11-11T02:46:03+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>92ede0252ef7e92459ff5df2a16cd28e</guid>
+    <fileName>Assets/Plugins/CW/Shared/Common/Examples/Scripts/CwRotate.cs</fileName>
+    <timeStamp>2022-11-11T02:46:43+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8d2ec44108dda21438f164cae219f224</guid>
+    <fileName>Assets/Plugins/CW/Shared/Common/Extras/Scripts/CwChild.cs</fileName>
+    <timeStamp>2022-11-11T02:46:41+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>543105670369c7e49b28b587c69ad997</guid>
+    <fileName>Assets/Plugins/CW/Shared/Common/Extras/Scripts/CwDepthTextureMode.cs</fileName>
+    <timeStamp>2022-11-11T02:46:25+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2d2927631b10c2f4b9ce492ed53fd69b</guid>
+    <fileName>Assets/Plugins/CW/Shared/Common/Extras/Scripts/CwFollow.cs</fileName>
+    <timeStamp>2022-11-11T02:46:09+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8da33d20535c346499a0c78cabe4d750</guid>
+    <fileName>Assets/Plugins/CW/Shared/Common/Extras/Scripts/CwInputManager.cs</fileName>
+    <timeStamp>2023-10-12T09:48:07+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>074581640de185e4f9953ebbc6d61a87</guid>
+    <fileName>Assets/Plugins/CW/Shared/Common/Extras/Scripts/CwRenderTextureManager.cs</fileName>
+    <timeStamp>2022-11-11T02:45:56+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>aaf11c1cf1ea4ee47bc2af707e2a6dfb</guid>
+    <fileName>Assets/Plugins/CW/Shared/Common/Extras/Scripts/CwRoot.cs</fileName>
+    <timeStamp>2022-11-11T02:46:51+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d0c2debde2a068741bac1cf9efca66ac</guid>
+    <fileName>Assets/Plugins/CW/Shared/Common/Extras/Scripts/CwSeedAttribute.cs</fileName>
+    <timeStamp>2022-11-11T02:47:02+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d0de2c3cc880c084084779b3c82e4391</guid>
+    <fileName>Assets/Plugins/CW/Shared/Common/Required/Scripts/CwCommon.cs</fileName>
+    <timeStamp>2022-11-11T02:47:02+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6db2e50665ae04147b7ef6bf70fa0756</guid>
+    <fileName>Assets/Plugins/CW/Shared/Common/Required/Scripts/CwEditor.cs</fileName>
+    <timeStamp>2023-10-12T09:47:53+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>40a2a791e0ffb554885467adbda44772</guid>
+    <fileName>Assets/Plugins/CW/Shared/Common/Required/Scripts/CwGuide.cs</fileName>
+    <timeStamp>2022-11-11T02:46:16+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>45942563aa8bfe64bbeace4d9aa80a91</guid>
+    <fileName>Assets/Plugins/CW/Shared/Common/Required/Scripts/CwHelper.cs</fileName>
+    <timeStamp>2023-10-12T09:47:41+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>fbb4d9a834e3b5b43801419bceffc9cb</guid>
+    <fileName>Assets/Plugins/CW/Shared/Common/Required/Scripts/CwInput.cs</fileName>
+    <timeStamp>2022-11-11T02:47:20+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2eb96458d5d3d8a418388ebad98e1bc4</guid>
+    <fileName>Assets/Plugins/CW/Shared/Common/Required/Scripts/CwShaderBundle.cs</fileName>
+    <timeStamp>2023-10-12T09:47:33+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7da7b91ae25133542977e88fef61b34b</guid>
+    <fileName>Assets/AdaptCanvasToScreenSize.cs</fileName>
+    <timeStamp>2023-05-28T15:38:39+01:00</timeStamp>
+    <typeFullName>
+      <string>AdaptCanvasToScreenSize</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c0c4975ac9800974496a24c91243116d</guid>
+    <fileName>Assets/BaseUIStart.cs</fileName>
+    <timeStamp>2023-03-22T13:14:03+00:00</timeStamp>
+    <typeFullName>
+      <string>BaseUIStart</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b3334b6608fb6d04a905889a476a03eb</guid>
+    <fileName>Assets/BrightnessToggle.cs</fileName>
+    <timeStamp>2023-05-28T16:23:26+01:00</timeStamp>
+    <typeFullName>
+      <string>BrightnessToggle</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5be831c9a73436f4a9e99197efa47151</guid>
+    <fileName>Assets/CameraFirstPerson.cs</fileName>
+    <timeStamp>2015-02-09T19:59:06+00:00</timeStamp>
+    <typeFullName>
+      <string>CameraFirstPerson</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d50712b764101374683cc638550df7db</guid>
+    <fileName>Assets/CloseSettingsButtonController.cs</fileName>
+    <timeStamp>2023-04-02T11:51:21+01:00</timeStamp>
+    <typeFullName>
+      <string>CloseSettingsButtonController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c8ee876aaebcf874f8b8f05f1e594447</guid>
+    <fileName>Assets/CubeMovement.cs</fileName>
+    <timeStamp>2023-03-18T14:44:27+00:00</timeStamp>
+    <typeFullName>
+      <string>CubeMovement</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>48fe6e3e5747a774984bf4d8ce3dcc57</guid>
+    <fileName>Assets/FollowCamera.cs</fileName>
+    <timeStamp>2023-03-17T22:43:57+00:00</timeStamp>
+    <typeFullName>
+      <string>FollowCamera</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2b8fc106fe993a045a5df3e49aff1d38</guid>
+    <fileName>Assets/FollowMainCamera.cs</fileName>
+    <timeStamp>2023-03-19T11:52:12+00:00</timeStamp>
+    <typeFullName>
+      <string>FollowMainCamera</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3ae553b5cfb450f42a54f18b61ca9fb9</guid>
+    <fileName>Assets/GyroToggleHandler.cs</fileName>
+    <timeStamp>2023-06-04T16:31:50+01:00</timeStamp>
+    <typeFullName>
+      <string>LeanGyroToggleHandler</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>227bf2924dabc174489283bd03d9b481</guid>
+    <fileName>Assets/InfinitePlane.cs</fileName>
+    <timeStamp>2023-04-01T11:06:24+01:00</timeStamp>
+    <typeFullName>
+      <string>InfinitePlane</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>df558fa486e212243b232ab1ac90f47e</guid>
+    <fileName>Assets/OrbBehaviour.cs</fileName>
+    <timeStamp>2023-04-01T12:43:27+01:00</timeStamp>
+    <typeFullName>
+      <string>OrbBehavior</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0eb45f5cb6f37bd4ebd2400e87f5c1fc</guid>
+    <fileName>Assets/PlaceButtonUIElement.cs</fileName>
+    <timeStamp>2023-05-24T22:03:29+01:00</timeStamp>
+    <typeFullName>
+      <string>PlaceButtonUIElement</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>978afdd8d6906864b8744edaf8b30315</guid>
+    <fileName>Assets/PlaceSoundController.cs</fileName>
+    <timeStamp>2023-12-30T22:28:34.8048901+00:00</timeStamp>
+    <typeFullName>
+      <string>PlaceSoundController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b4bbeb544d6d4324a939238de3f4aefe</guid>
+    <fileName>Assets/PlayerController.cs</fileName>
+    <timeStamp>2023-03-18T13:53:18+00:00</timeStamp>
+    <typeFullName>
+      <string>PlayerController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>05422ad172fce624d894f3077c00affa</guid>
+    <fileName>Assets/SettingsButtonController.cs</fileName>
+    <timeStamp>2023-05-24T16:06:55+01:00</timeStamp>
+    <typeFullName>
+      <string>SettingsButtonController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9c0ab9fcd47c6384e9b8f2ca5949ffca</guid>
+    <fileName>Assets/SettingsMenuController.cs</fileName>
+    <timeStamp>2023-04-02T12:49:40+01:00</timeStamp>
+    <typeFullName>
+      <string>SettingsMenuController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0295dc1eb42baee428cb8a06ced87b11</guid>
+    <fileName>Assets/Sound.cs</fileName>
+    <timeStamp>2023-04-01T18:09:51+01:00</timeStamp>
+    <typeFullName>
+      <string>Sound</string>
+      <string>SoundPlayer</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>49c16354a857b4c44900eaebe23f61ef</guid>
+    <fileName>Assets/TactilePlayerController.cs</fileName>
+    <timeStamp>2023-05-28T16:52:01+01:00</timeStamp>
+    <typeFullName>
+      <string>TactilePlayerController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0cb751a5cc0fd19488b7748ee5090193</guid>
+    <fileName>Assets/TouchCameraControl.cs</fileName>
+    <timeStamp>2023-07-02T19:12:10.4116302+01:00</timeStamp>
+    <typeFullName>
+      <string>TouchCameraControl</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f10cb3a5ac5340f4bbbfbb51cf5b2695</guid>
+    <fileName>Assets/Android Native Audio/Scripts/ANAMusic.cs</fileName>
+    <timeStamp>2016-11-28T16:58:34+00:00</timeStamp>
+    <typeFullName>
+      <string>ANAMusic</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>32b737e81026b194c92240b34411ffb5</guid>
+    <fileName>Assets/Android Native Audio/Scripts/ANAMusicBackgroundPause.cs</fileName>
+    <timeStamp>2016-11-28T16:58:27+00:00</timeStamp>
+    <typeFullName>
+      <string>ChristopherCreates.AndroidNativeAudio.ANAMusicBackgroundPause</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>65a59569955880342ade84433d7201ad</guid>
+    <fileName>Assets/Android Native Audio/Scripts/AndroidMediaPlayer.cs</fileName>
+    <timeStamp>2016-11-28T16:58:30+00:00</timeStamp>
+    <typeFullName>
+      <string>ChristopherCreates.AndroidNativeAudio.AndroidMediaPlayer</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>efb8b23f1e5e73947abc0f426580b3f2</guid>
+    <fileName>Assets/Android Native Audio/Scripts/AndroidNativeAudio.cs</fileName>
+    <timeStamp>2016-11-28T16:58:34+00:00</timeStamp>
+    <typeFullName>
+      <string>AndroidNativeAudio</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e66eabe824609674baaed7531853b7f5</guid>
+    <fileName>Assets/Android Native Audio/Scripts/OnCompletionListener.cs</fileName>
+    <timeStamp>2016-11-28T16:58:33+00:00</timeStamp>
+    <typeFullName>
+      <string>ChristopherCreates.AndroidNativeAudio.OnCompletionListener</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3c6b482c4c4076e488677d3732799440</guid>
+    <fileName>Assets/Android Native Audio/Scripts/OnLoadCompleteListener.cs</fileName>
+    <timeStamp>2016-11-28T16:58:29+00:00</timeStamp>
+    <typeFullName>
+      <string>ChristopherCreates.AndroidNativeAudio.OnLoadCompleteListener</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d30c4945a24ea8c45928530181b3931e</guid>
+    <fileName>Assets/Android Native Audio/Scripts/OnPreparedListener.cs</fileName>
+    <timeStamp>2016-11-28T16:58:33+00:00</timeStamp>
+    <typeFullName>
+      <string>ChristopherCreates.AndroidNativeAudio.OnPreparedListener</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b781b8e3a06bfb44aa00c70a080120dc</guid>
+    <fileName>Assets/AudioHelm/Editor/AudioHelmClockUI.cs</fileName>
+    <timeStamp>2020-01-31T19:17:50+00:00</timeStamp>
+    <typeFullName>
+      <string>AudioHelm.AudioHelmClockUI</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e3101a9b30e123a4884d38cc27f2602f</guid>
+    <fileName>Assets/AudioHelm/Editor/HelmAudioInitUI.cs</fileName>
+    <timeStamp>2020-01-31T19:18:17+00:00</timeStamp>
+    <typeFullName>
+      <string>AudioHelm.HelmAudioInitUI</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>bbfc6f3b5745e8542885e607c76d848d</guid>
+    <fileName>Assets/AudioHelm/Editor/HelmControllerUI.cs</fileName>
+    <timeStamp>2020-01-31T19:17:52+00:00</timeStamp>
+    <typeFullName>
+      <string>AudioHelm.HelmControllerUI</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>19a1edda316e642bcac05acdbafb86c3</guid>
+    <fileName>Assets/AudioHelm/Editor/HelmParamterListUI.cs</fileName>
+    <timeStamp>2020-01-31T19:16:10+00:00</timeStamp>
+    <typeFullName>
+      <string>AudioHelm.HelmParameterListUI</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>062c6879670ba4c1993f27fd2957b060</guid>
+    <fileName>Assets/AudioHelm/Editor/HelmPatchUI.cs</fileName>
+    <timeStamp>2020-01-31T19:15:57+00:00</timeStamp>
+    <typeFullName>
+      <string>AudioHelm.HelmPatchUI</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a0d93d294a40945c0bf13245d93c37dd</guid>
+    <fileName>Assets/AudioHelm/Editor/HelmSequencerUI.cs</fileName>
+    <timeStamp>2020-01-31T19:17:36+00:00</timeStamp>
+    <typeFullName>
+      <string>AudioHelm.HelmSequencerUI</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>dc9f1fe0fe26e490b8bb6236f2b469cc</guid>
+    <fileName>Assets/AudioHelm/Editor/HelmSynthUI.cs</fileName>
+    <timeStamp>2020-01-31T19:18:13+00:00</timeStamp>
+    <typeFullName>
+      <string>AudioHelm.HelmSynthUI</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ed6c6b9ace6f7413bb4825e849f35fb9</guid>
+    <fileName>Assets/AudioHelm/Editor/KeyboardUI.cs</fileName>
+    <timeStamp>2020-01-31T19:18:27+00:00</timeStamp>
+    <typeFullName>
+      <string>AudioHelm.KeyboardUI</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b75e201deecd74f55a570ed66de186f6</guid>
+    <fileName>Assets/AudioHelm/Editor/KeyzoneEditorUI.cs</fileName>
+    <timeStamp>2020-01-31T19:17:50+00:00</timeStamp>
+    <typeFullName>
+      <string>AudioHelm.KeyzoneEditorUI</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>103be020c7ae748e5aae8c4f775aa52f</guid>
+    <fileName>Assets/AudioHelm/Editor/MidiFileUI.cs</fileName>
+    <timeStamp>2020-01-31T19:16:04+00:00</timeStamp>
+    <typeFullName>
+      <string>AudioHelm.MidiFileUI</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a05b218bad6774932876eec826fab6c9</guid>
+    <fileName>Assets/AudioHelm/Editor/PatchBrowserUI.cs</fileName>
+    <timeStamp>2020-01-31T19:17:35+00:00</timeStamp>
+    <typeFullName>
+      <string>AudioHelm.PatchBrowserUI</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>35763c144fc1a4d3584fe6e2492bf638</guid>
+    <fileName>Assets/AudioHelm/Editor/SamplerUI.cs</fileName>
+    <timeStamp>2020-01-31T19:16:28+00:00</timeStamp>
+    <typeFullName>
+      <string>AudioHelm.SamplerUI</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9d848f50ae70d4bb78cde8cfdc56af86</guid>
+    <fileName>Assets/AudioHelm/Editor/SampleSequencerUI.cs</fileName>
+    <timeStamp>2020-01-31T19:17:33+00:00</timeStamp>
+    <typeFullName>
+      <string>AudioHelm.SampleSequencerUI</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>02daad9b3471c4e8081cd84767b3fd61</guid>
+    <fileName>Assets/AudioHelm/Editor/SequencerPositionUI.cs</fileName>
+    <timeStamp>2020-01-31T19:15:54+00:00</timeStamp>
+    <typeFullName>
+      <string>AudioHelm.SequencerPositionUI</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c6c5b4729a3f04773a15ab34773498b0</guid>
+    <fileName>Assets/AudioHelm/Editor/SequencerUI.cs</fileName>
+    <timeStamp>2020-01-31T19:17:58+00:00</timeStamp>
+    <typeFullName>
+      <string>AudioHelm.SequencerUI</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9ca91af7e078d4cac97424b5eacd097b</guid>
+    <fileName>Assets/AudioHelm/Editor/SequencerVelocityUI.cs</fileName>
+    <timeStamp>2020-01-31T19:17:31+00:00</timeStamp>
+    <typeFullName>
+      <string>AudioHelm.SequencerVelocityUI</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>045e068a7f5e98b4d9ed97de401bb997</guid>
+    <fileName>Assets/AudioHelm/Scripts/AudioHelmClock.cs</fileName>
+    <timeStamp>2020-01-31T19:15:55+00:00</timeStamp>
+    <typeFullName>
+      <string>AudioHelm.AudioHelmClock</string>
+      <string>AudioHelm.AudioHelmClock+ResetAction</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>981c2862dc2a4474b9d748a52426fab6</guid>
+    <fileName>Assets/AudioHelm/Scripts/HelmAudioInit.cs</fileName>
+    <timeStamp>2020-01-31T19:17:28+00:00</timeStamp>
+    <typeFullName>
+      <string>AudioHelm.HelmAudioInit</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>38dd2be811f08bb40b6c8cecb642e2d7</guid>
+    <fileName>Assets/AudioHelm/Scripts/HelmAudioReceive.cs</fileName>
+    <timeStamp>2020-01-31T19:16:30+00:00</timeStamp>
+    <typeFullName>
+      <string>AudioHelm.HelmAudioReceive</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1e4430ff3452e4a85ac2530e457beb05</guid>
+    <fileName>Assets/AudioHelm/Scripts/HelmController.cs</fileName>
+    <timeStamp>2020-01-31T19:16:13+00:00</timeStamp>
+    <typeFullName>
+      <string>AudioHelm.HelmController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a9abb445a3b7f4c8d9ea98d8c1518125</guid>
+    <fileName>Assets/AudioHelm/Scripts/HelmParameter.cs</fileName>
+    <timeStamp>2020-01-31T19:17:40+00:00</timeStamp>
+    <typeFullName>
+      <string>AudioHelm.HelmParameter</string>
+      <string>AudioHelm.HelmParameter+ScaleType</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>65f3b6e6a951d4582bfd784c7c9b4810</guid>
+    <fileName>Assets/AudioHelm/Scripts/HelmPatch.cs</fileName>
+    <timeStamp>2020-01-31T19:16:57+00:00</timeStamp>
+    <typeFullName>
+      <string>AudioHelm.HelmPatch</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>06a5bd5e50e80425e9f0c20f0f73037a</guid>
+    <fileName>Assets/AudioHelm/Scripts/HelmPatchFormat.cs</fileName>
+    <timeStamp>2020-01-31T19:15:57+00:00</timeStamp>
+    <typeFullName>
+      <string>AudioHelm.HelmModulationSetting</string>
+      <string>AudioHelm.HelmPatchSettings</string>
+      <string>AudioHelm.HelmPatchFormat</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>03c2100a494de423e9975762c775cfac</guid>
+    <fileName>Assets/AudioHelm/Scripts/HelmSequencer.cs</fileName>
+    <timeStamp>2020-01-31T19:15:54+00:00</timeStamp>
+    <typeFullName>
+      <string>AudioHelm.HelmSequencer</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>86609c8add5d8874da36938f6f2e5a3d</guid>
+    <fileName>Assets/AudioHelm/Scripts/Keyzone.cs</fileName>
+    <timeStamp>2020-01-31T19:17:16+00:00</timeStamp>
+    <typeFullName>
+      <string>AudioHelm.Keyzone</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>11cccdac6de19430d952509376794c2c</guid>
+    <fileName>Assets/AudioHelm/Scripts/MidiFile.cs</fileName>
+    <timeStamp>2020-01-31T19:16:05+00:00</timeStamp>
+    <typeFullName>
+      <string>AudioHelm.MidiFile</string>
+      <string>AudioHelm.MidiFile+MidiData</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9abf29efc218a4c42a439464af6564ac</guid>
+    <fileName>Assets/AudioHelm/Scripts/Native.cs</fileName>
+    <timeStamp>2020-01-31T19:17:29+00:00</timeStamp>
+    <typeFullName>
+      <string>AudioHelm.Native</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>315051c115d6441bbb96851cf188289f</guid>
+    <fileName>Assets/AudioHelm/Scripts/Note.cs</fileName>
+    <timeStamp>2020-01-31T19:16:25+00:00</timeStamp>
+    <typeFullName>
+      <string>AudioHelm.Note</string>
+      <string>AudioHelm.Note+NoteAction</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b98b6c479bf0347b38b8e9b783736590</guid>
+    <fileName>Assets/AudioHelm/Scripts/NoteHandler.cs</fileName>
+    <timeStamp>2020-01-31T19:17:51+00:00</timeStamp>
+    <typeFullName>
+      <string>AudioHelm.NoteHandler</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e7fa8c741d3644b7d965a70e5ed52303</guid>
+    <fileName>Assets/AudioHelm/Scripts/NoteRow.cs</fileName>
+    <timeStamp>2020-01-31T19:18:21+00:00</timeStamp>
+    <typeFullName>
+      <string>AudioHelm.NoteRow</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3f67c212c580e428dafebf997b07b8f0</guid>
+    <fileName>Assets/AudioHelm/Scripts/Sampler.cs</fileName>
+    <timeStamp>2020-01-31T19:16:35+00:00</timeStamp>
+    <typeFullName>
+      <string>AudioHelm.Sampler</string>
+      <string>AudioHelm.Sampler+KeyzonePlayMode</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1f6faed88bb01468fb8fd49178ba50fa</guid>
+    <fileName>Assets/AudioHelm/Scripts/SampleSequencer.cs</fileName>
+    <timeStamp>2020-01-31T19:16:14+00:00</timeStamp>
+    <typeFullName>
+      <string>AudioHelm.SampleSequencer</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>15508ce4996df4a6b826f110f36401db</guid>
+    <fileName>Assets/AudioHelm/Scripts/Sequencer.cs</fileName>
+    <timeStamp>2020-01-31T19:16:07+00:00</timeStamp>
+    <typeFullName>
+      <string>AudioHelm.Sequencer</string>
+      <string>AudioHelm.Sequencer+NoteAction</string>
+      <string>AudioHelm.Sequencer+BeatAction</string>
+      <string>AudioHelm.Sequencer+NoteEvent</string>
+      <string>AudioHelm.Sequencer+BeatEvent</string>
+      <string>AudioHelm.Sequencer+Division</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7337f572ec6af410186aec1aee1e1722</guid>
+    <fileName>Assets/AudioHelm/Scripts/Utils.cs</fileName>
+    <timeStamp>2020-01-31T19:17:03+00:00</timeStamp>
+    <typeFullName>
+      <string>AudioHelm.CommonParam</string>
+      <string>AudioHelm.Param</string>
+      <string>AudioHelm.Utils</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fcf7219bab7fe46a1ad266029b2fee19</guid>
+    <fileName>Assets/TutorialInfo/Scripts/Readme.cs</fileName>
+    <timeStamp>2022-02-09T20:52:41+00:00</timeStamp>
+    <typeFullName>
+      <string>Readme</string>
+      <string>Readme+Section</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a59d2285b042d0c49992afde1fc62c07</guid>
+    <fileName>Assets/Android Native Audio/Examples/ANA/ANAExample.cs</fileName>
+    <timeStamp>2016-11-28T16:58:31+00:00</timeStamp>
+    <typeFullName>
+      <string>ANAExample</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a39f15beb29e3e748a20a9ffe8bbf192</guid>
+    <fileName>Assets/Android Native Audio/Examples/ANA Music/ANAMusicExample.cs</fileName>
+    <timeStamp>2016-11-28T16:58:31+00:00</timeStamp>
+    <typeFullName>
+      <string>ANAMusicExample</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>07f267af4dcecd5449d8c996902d7f0b</guid>
+    <fileName>Assets/EckTechGames/AutoSave/Editor/AutoSaveExtension.cs</fileName>
+    <timeStamp>2022-05-09T21:44:07+01:00</timeStamp>
+    <typeFullName>
+      <string>EckTechGames.AutoSave.AutoSaveExtension</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b9fca4100a7477741b3973b4ff2c405f</guid>
+    <fileName>Assets/Joystick Pack/Scripts/Base/Joystick.cs</fileName>
+    <timeStamp>2019-03-24T14:21:06+00:00</timeStamp>
+    <typeFullName>
+      <string>Joystick</string>
+      <string>AxisOptions</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>52071c88a467b46438b3cbf159bf988b</guid>
+    <fileName>Assets/Joystick Pack/Scripts/Editor/DynamicJoystickEditor.cs</fileName>
+    <timeStamp>2019-03-24T14:20:57+00:00</timeStamp>
+    <typeFullName>
+      <string>DynamicJoystickEditor</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>614d06243900d764f9c50b4da2c950a3</guid>
+    <fileName>Assets/Joystick Pack/Scripts/Editor/FloatingJoystickEditor.cs</fileName>
+    <timeStamp>2019-03-24T14:21:00+00:00</timeStamp>
+    <typeFullName>
+      <string>FloatingJoystickEditor</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d4b2b0d911a01a64ebfca9918e2b90b4</guid>
+    <fileName>Assets/Joystick Pack/Scripts/Editor/JoystickEditor.cs</fileName>
+    <timeStamp>2019-03-24T14:21:09+00:00</timeStamp>
+    <typeFullName>
+      <string>JoystickEditor</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>58b5a2db95af76c4c9d4116a09ec3697</guid>
+    <fileName>Assets/Joystick Pack/Scripts/Editor/VariableJoystickEditor.cs</fileName>
+    <timeStamp>2019-03-24T14:20:58+00:00</timeStamp>
+    <typeFullName>
+      <string>VariableJoystickEditor</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ba0d0e7a039f526499c356a3c5cd6d3f</guid>
+    <fileName>Assets/Joystick Pack/Scripts/Joysticks/DynamicJoystick.cs</fileName>
+    <timeStamp>2023-03-22T22:47:52+00:00</timeStamp>
+    <typeFullName>
+      <string>DynamicJoystick</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>45977bbae16431c46a013576a1aea384</guid>
+    <fileName>Assets/Joystick Pack/Scripts/Joysticks/FixedJoystick.cs</fileName>
+    <timeStamp>2019-03-24T14:20:56+00:00</timeStamp>
+    <typeFullName>
+      <string>FixedJoystick</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7a47f546fc70ec8428172694e78e4288</guid>
+    <fileName>Assets/Joystick Pack/Scripts/Joysticks/FloatingJoystick.cs</fileName>
+    <timeStamp>2019-03-24T14:21:02+00:00</timeStamp>
+    <typeFullName>
+      <string>FloatingJoystick</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>42844a4fccbd54746b90cade4ff70f73</guid>
+    <fileName>Assets/Joystick Pack/Scripts/Joysticks/VariableJoystick.cs</fileName>
+    <timeStamp>2019-03-24T14:20:55+00:00</timeStamp>
+    <typeFullName>
+      <string>VariableJoystick</string>
+      <string>JoystickType</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>476cc7d7cd9874016adc216baab94a0a</guid>
+    <fileName>Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs</fileName>
+    <timeStamp>2022-02-09T20:52:41+00:00</timeStamp>
+    <typeFullName>
+      <string>ReadmeEditor</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7aca30c5e14e445c7836451b610251c0</guid>
+    <fileName>Assets/AudioHelm/Demos/Assets/Scripts/BounceAudio2d.cs</fileName>
+    <timeStamp>2020-01-31T19:17:09+00:00</timeStamp>
+    <typeFullName>
+      <string>AudioHelm.BounceAudio2d</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>eec5760c0dec34b8cbcec043f762b7f7</guid>
+    <fileName>Assets/AudioHelm/Demos/Assets/Scripts/CameraMan.cs</fileName>
+    <timeStamp>2020-01-31T19:18:28+00:00</timeStamp>
+    <typeFullName>
+      <string>AudioHelm.CameraMan</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3012827504ba44b9f9776e5b38fb17ab</guid>
+    <fileName>Assets/AudioHelm/Demos/Assets/Scripts/ControlJump.cs</fileName>
+    <timeStamp>2020-01-31T19:16:23+00:00</timeStamp>
+    <typeFullName>
+      <string>AudioHelm.ControlJump</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f8bc95adf9b2e43beadae44728d27deb</guid>
+    <fileName>Assets/AudioHelm/Demos/Assets/Scripts/ControlTorque.cs</fileName>
+    <timeStamp>2020-01-31T19:18:34+00:00</timeStamp>
+    <typeFullName>
+      <string>AudioHelm.ControlTorque</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b029b964646ff4c5697cb1225ddb5633</guid>
+    <fileName>Assets/AudioHelm/Demos/Assets/Scripts/DestroyAfterTime.cs</fileName>
+    <timeStamp>2020-01-31T19:17:46+00:00</timeStamp>
+    <typeFullName>
+      <string>AudioHelm.DestroyAfterTime</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c30bf07d7beb1d743837df3b4d10fd1e</guid>
+    <fileName>Assets/AudioHelm/Demos/Assets/Scripts/EnableAfterTime.cs</fileName>
+    <timeStamp>2020-01-31T19:17:55+00:00</timeStamp>
+    <typeFullName>
+      <string>AudioHelm.EnableAfterTime</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f296133c9cc024102a20627bddbd6e46</guid>
+    <fileName>Assets/AudioHelm/Demos/Assets/Scripts/GroundKey.cs</fileName>
+    <timeStamp>2020-01-31T19:18:30+00:00</timeStamp>
+    <typeFullName>
+      <string>AudioHelm.GroundKey</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9764e414ab9b64d98b8b3221eb2c85bb</guid>
+    <fileName>Assets/AudioHelm/Demos/Assets/Scripts/GroundKeyboard.cs</fileName>
+    <timeStamp>2020-01-31T19:17:27+00:00</timeStamp>
+    <typeFullName>
+      <string>AudioHelm.GroundKeyboard</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a99f1e91b42f72c4ca24dcd0c47a13a0</guid>
+    <fileName>Assets/AudioHelm/Demos/Assets/Scripts/MaterialOnOff.cs</fileName>
+    <timeStamp>2020-01-31T19:17:40+00:00</timeStamp>
+    <typeFullName>
+      <string>AudioHelm.MaterialOnOff</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>84ba7ad6b4ce64aa3b2c7a41e60a587a</guid>
+    <fileName>Assets/AudioHelm/Demos/Assets/Scripts/MaterialPulse.cs</fileName>
+    <timeStamp>2020-01-31T19:17:15+00:00</timeStamp>
+    <typeFullName>
+      <string>AudioHelm.MaterialPulse</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>dc929dddb4e9c45c2a57227a28784da0</guid>
+    <fileName>Assets/AudioHelm/Demos/Assets/Scripts/NoteBlaster.cs</fileName>
+    <timeStamp>2020-01-31T19:18:13+00:00</timeStamp>
+    <typeFullName>
+      <string>AudioHelm.NoteBlaster</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>36103443b868b43e89f3f0acd227d3a4</guid>
+    <fileName>Assets/AudioHelm/Demos/Assets/Scripts/Oscillate.cs</fileName>
+    <timeStamp>2020-01-31T19:16:29+00:00</timeStamp>
+    <typeFullName>
+      <string>AudioHelm.Oscillate</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>17093e577719948e2875bed8f8387ad0</guid>
+    <fileName>Assets/AudioHelm/Demos/Assets/Scripts/PlatformCreator.cs</fileName>
+    <timeStamp>2020-01-31T19:16:08+00:00</timeStamp>
+    <typeFullName>
+      <string>AudioHelm.PlatformCreator</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7c43cb146cfcd422791121197db48b69</guid>
+    <fileName>Assets/AudioHelm/Demos/Assets/Scripts/PulseImageOnNote.cs</fileName>
+    <timeStamp>2020-01-31T19:17:10+00:00</timeStamp>
+    <typeFullName>
+      <string>AudioHelm.PulseImageOnNote</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7bd6de900d6b74a75a060789af3614b4</guid>
+    <fileName>Assets/AudioHelm/Demos/Assets/Scripts/RepetitiveSpawner.cs</fileName>
+    <timeStamp>2020-01-31T19:17:10+00:00</timeStamp>
+    <typeFullName>
+      <string>AudioHelm.RepetitiveSpawner</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9be8f98c0b1a14787bad3d056c9cca18</guid>
+    <fileName>Assets/AudioHelm/Demos/Assets/Scripts/SequenceGenerator.cs</fileName>
+    <timeStamp>2020-01-31T19:17:30+00:00</timeStamp>
+    <typeFullName>
+      <string>AudioHelm.SequenceGenerator</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9a80fcb3f63ec4b038123f4773bb7296</guid>
+    <fileName>Assets/AudioHelm/Demos/Assets/Scripts/SetAnimationParameter.cs</fileName>
+    <timeStamp>2020-01-31T19:17:29+00:00</timeStamp>
+    <typeFullName>
+      <string>AudioHelm.SetAnimationParameter</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>166fc7f55316441d281521a6e2daa943</guid>
+    <fileName>Assets/AudioHelm/Demos/Assets/Scripts/SetHelmParameter.cs</fileName>
+    <timeStamp>2020-01-31T19:16:08+00:00</timeStamp>
+    <typeFullName>
+      <string>AudioHelm.SetHelmParameter</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1118c18e7680849aabcbfea7311ea27f</guid>
+    <fileName>Assets/AudioHelm/Demos/Assets/Scripts/SetSleepThreshold.cs</fileName>
+    <timeStamp>2020-01-31T19:16:04+00:00</timeStamp>
+    <typeFullName>
+      <string>AudioHelm.SetSleepThreshold</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>447935f46354d423ea582dd6b3e36bbd</guid>
+    <fileName>Assets/AudioHelm/Demos/Assets/Scripts/SyncAudioAndSequencers.cs</fileName>
+    <timeStamp>2020-01-31T19:16:37+00:00</timeStamp>
+    <typeFullName>
+      <string>AudioHelm.SyncAudioAndSequencers</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>107fcc667aac94d9fbf166b085c0cb37</guid>
+    <fileName>Assets/AudioHelm/Demos/Assets/Scripts/ToggleParameter.cs</fileName>
+    <timeStamp>2020-01-31T19:16:04+00:00</timeStamp>
+    <typeFullName>
+      <string>AudioHelm.ToggleParameter</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e7bb9d28907e795489bbd1d326c74593</guid>
+    <fileName>Assets/AudioHelm/Demos/Assets/Scripts/TriggerVisibleNotes.cs</fileName>
+    <timeStamp>2020-01-31T19:18:20+00:00</timeStamp>
+    <typeFullName>
+      <string>AudioHelm.TriggerVisibleNotes</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ad7217982b326f84ea843e75a9fd4a56</guid>
+    <fileName>Assets/CustomInputModule.cs</fileName>
+    <timeStamp>2023-07-02T15:58:29.0499785+01:00</timeStamp>
+    <typeFullName>
+      <string>CustomInputModule</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>088fb13fe8b75b34dbf5b8349f73809c</guid>
+    <fileName>Assets/LowQuality.cs</fileName>
+    <timeStamp>2023-12-31T13:54:33.1857281+00:00</timeStamp>
+    <typeFullName>
+      <string>QualityToggle</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>35b8ddffdb07aad4ea3e959b20018157</guid>
+    <fileName>Assets/PlayPauseButton.cs</fileName>
+    <timeStamp>2023-12-31T01:14:05.9398334+00:00</timeStamp>
+    <typeFullName>
+      <string>PlayPauseButton</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>67e6a0fee9d43476888b425d681497aa</guid>
+    <fileName>Assets/ResonanceAudio/Editor/ResonanceAudioBuildProcessor.cs</fileName>
+    <timeStamp>2023-12-30T20:23:27.5091982+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3ef86dadd398b460398e9ba0ff6e0917</guid>
+    <fileName>Assets/ResonanceAudio/Editor/ResonanceAudioListenerEditor.cs</fileName>
+    <timeStamp>2018-04-05T21:49:30+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a19aab96881a94c6297e955cdeac4f78</guid>
+    <fileName>Assets/ResonanceAudio/Editor/ResonanceAudioMaterialMapEditor.cs</fileName>
+    <timeStamp>2018-04-05T21:49:30+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>cc43dbac947834768bab0ae72b172934</guid>
+    <fileName>Assets/ResonanceAudio/Editor/ResonanceAudioReverbBakingWindow.cs</fileName>
+    <timeStamp>2023-12-30T20:39:16.7367918+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4ca7137fa09a944b2a40402d72b3d167</guid>
+    <fileName>Assets/ResonanceAudio/Editor/ResonanceAudioReverbComputer.cs</fileName>
+    <timeStamp>2018-04-05T21:49:30+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>19292ce3b238b4f60877ae186a6dc0af</guid>
+    <fileName>Assets/ResonanceAudio/Editor/ResonanceAudioReverbProbeEditor.cs</fileName>
+    <timeStamp>2018-04-05T21:49:30+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a59453f5bb43d4caab646d4b1981d8b5</guid>
+    <fileName>Assets/ResonanceAudio/Editor/ResonanceAudioRoomEditor.cs</fileName>
+    <timeStamp>2018-04-05T21:49:30+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>fce29aca2dad14d3ebe8bdbfbc3633c4</guid>
+    <fileName>Assets/ResonanceAudio/Editor/ResonanceAudioSourceEditor.cs</fileName>
+    <timeStamp>2023-11-07T18:56:36.8673159+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>73d7a9493a6bd4f7bad76d0c9a30e377</guid>
+    <fileName>Assets/ResonanceAudio/Scripts/ResonanceAudio.cs</fileName>
+    <timeStamp>2023-12-30T20:26:52.7527252+00:00</timeStamp>
+    <typeFullName>
+      <string>ResonanceAudio</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0e547943bfa9548658ab7f6a21834166</guid>
+    <fileName>Assets/ResonanceAudio/Scripts/ResonanceAudioAcousticMesh.cs</fileName>
+    <timeStamp>2023-11-07T18:56:36.876537+00:00</timeStamp>
+    <typeFullName>
+      <string>ResonanceAudioAcousticMesh</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>113e4aa2cd3db44d1ac0cb7e9794964b</guid>
+    <fileName>Assets/ResonanceAudio/Scripts/ResonanceAudioListener.cs</fileName>
+    <timeStamp>2023-12-30T20:41:32.161538+00:00</timeStamp>
+    <typeFullName>
+      <string>ResonanceAudioListener</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b2b0f2e7fc23e46c78f6dc1a54c32708</guid>
+    <fileName>Assets/ResonanceAudio/Scripts/ResonanceAudioMaterialMap.cs</fileName>
+    <timeStamp>2018-04-05T21:49:30+01:00</timeStamp>
+    <typeFullName>
+      <string>ResonanceAudioMaterialMap</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3e21439716435437ab2152de61e8b45b</guid>
+    <fileName>Assets/ResonanceAudio/Scripts/ResonanceAudioMaterialMapper.cs</fileName>
+    <timeStamp>2018-04-05T21:49:30+01:00</timeStamp>
+    <typeFullName>
+      <string>ResonanceAudioMaterialMapper</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1c7f44f32df4e4451831756861805a7e</guid>
+    <fileName>Assets/ResonanceAudio/Scripts/ResonanceAudioMaterialMapperUpdater.cs</fileName>
+    <timeStamp>2018-04-05T21:49:30+01:00</timeStamp>
+    <typeFullName>
+      <string>ResonanceAudioMaterialMapperUpdater</string>
+      <string>ResonanceAudioMaterialMapperUpdater+RefreshMaterialMapperDelegate</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>97139fbde32144241958106d7df4b4e0</guid>
+    <fileName>Assets/ResonanceAudio/Scripts/ResonanceAudioReverbProbe.cs</fileName>
+    <timeStamp>2018-04-05T21:49:30+01:00</timeStamp>
+    <typeFullName>
+      <string>ResonanceAudioReverbProbe</string>
+      <string>ResonanceAudioReverbProbe+RegionShape</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2b7929fa5e730414cb1f18134aef71c3</guid>
+    <fileName>Assets/ResonanceAudio/Scripts/ResonanceAudioRoom.cs</fileName>
+    <timeStamp>2018-04-05T21:49:30+01:00</timeStamp>
+    <typeFullName>
+      <string>ResonanceAudioRoom</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6289814d7d2834fd4b386fc5171b09e9</guid>
+    <fileName>Assets/ResonanceAudio/Scripts/ResonanceAudioRoomManager.cs</fileName>
+    <timeStamp>2018-04-05T21:49:30+01:00</timeStamp>
+    <typeFullName>
+      <string>ResonanceAudioRoomManager</string>
+      <string>ResonanceAudioRoomManager+SurfaceMaterial</string>
+      <string>ResonanceAudioRoomManager+SurfaceMaterialDictionary</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ef5e1719799ca4f9b9f5db81449517ca</guid>
+    <fileName>Assets/ResonanceAudio/Scripts/ResonanceAudioSource.cs</fileName>
+    <timeStamp>2018-04-05T21:49:30+01:00</timeStamp>
+    <typeFullName>
+      <string>ResonanceAudioSource</string>
+      <string>ResonanceAudioSource+Quality</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+</ArrayOfTypeDate>
