@@ -8,8 +8,7 @@ public class QualityToggle : MonoBehaviour
 
     void Start()
     {
-        // Encontrar os índices para os níveis de qualidade
-        // É importante garantir que estes índices correspondam aos níveis de qualidade definidos nas Quality Settings
+        // Find quality indices
         for (int i = 0; i < QualitySettings.names.Length; i++)
         {
             if (QualitySettings.names[i].Equals("Medium"))
@@ -18,7 +17,7 @@ public class QualityToggle : MonoBehaviour
                 lowQualityIndex = i;
         }
 
-        // Definir a qualidade inicial como "Medium"
+        // Set initial quality
         QualitySettings.SetQualityLevel(mediumQualityIndex, true);
     }
 
