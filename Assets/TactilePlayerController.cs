@@ -14,18 +14,18 @@ public class TactilePlayerController : MonoBehaviour
     private Vector2 currTouchPos;
     private Vector2 rotation;
     public float rotationSpeed = 1f;
-    public float movementSmoothness = 10f; // Add a movement smoothness variable
+    public float movementSmoothness = 10f;
     private SoundPlayer soundPlayer;
     public GameObject orbPrefab;
-    private GameObject lastPlacedOrb; // Store reference to the last placed orb
-    public bool isPlacingOrb = false; // set this to true when the button is touched
-    public RectTransform joystick; // Reference to the joystick object
+    private GameObject lastPlacedOrb;
+    public bool isPlacingOrb = false;
+    public RectTransform joystick;
     public Image joystickBackground;
 
     private void Start()
     {
         rb = GetComponent<Rigidbody>();
-        gameObject.SetActive(true); // Set the player to be visible
+        gameObject.SetActive(true);
         lastInputTime = Time.time;
 
         // Instantiate the SoundPlayer and pass the listener transform
@@ -89,7 +89,7 @@ public class TactilePlayerController : MonoBehaviour
             Vector2 touchDelta = currTouchPos - startTouchPos;
             Vector3 targetMovementDirection = new Vector3(touchDelta.x, 0f, touchDelta.y).normalized;
             targetMovementDirection = Camera.main.transform.TransformDirection(targetMovementDirection);
-            targetMovementDirection.y = 0f; // Ignore vertical movement
+            targetMovementDirection.y = 0f;
 
             // Smoothly transition between the old and new movement directions
             Vector3 newVelocity = Vector3.Lerp(rb.velocity, targetMovementDirection * moveSpeed, Time.deltaTime * movementSmoothness);
@@ -115,10 +115,6 @@ public class TactilePlayerController : MonoBehaviour
             (joystick.GetComponent<DynamicJoystick>() as DynamicJoystick).OnPointerUp(eventData);
         }
     }
-
-
-
-
 
 
     private void HandleRotation(Touch touch)
