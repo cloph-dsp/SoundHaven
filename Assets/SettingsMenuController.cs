@@ -7,7 +7,7 @@ public class SettingsMenuController : MonoBehaviour
     public void ToggleMenu()
     {
         menuVisible = !menuVisible;
-        Debug.Log("ToggleMenu called, menuVisible: " + menuVisible); // Debug message
+        Debug.Log("ToggleMenu called, menuVisible: " + menuVisible);
         gameObject.SetActive(menuVisible);
     }
 
@@ -16,11 +16,11 @@ public class SettingsMenuController : MonoBehaviour
         gameObject.SetActive(false);
     }
 
-    void Update() // Step 1: Override Update method
+    void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Escape)) // Step 2: Check for back button press
+        if (Input.GetKeyDown(KeyCode.Escape))
         {
-            if (menuVisible) // Step 3: If back button is pressed and panel is visible
+            if (menuVisible)
             {
                 ClosePanel();
             }
