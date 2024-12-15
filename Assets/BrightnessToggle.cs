@@ -11,12 +11,12 @@ public class BrightnessToggle : MonoBehaviour, IPointerClickHandler
     private Canvas parentCanvas;
     public float xOffset = 60f;
     public float yOffset = 60f;
-    public float dimAmount = 0.2f; // 20% darker
-    public Slider dimSlider; // Slider UI for dimness adjustment
+    public float dimAmount = 0.2f;
+    public Slider dimSlider;
 
     public bool IsBrightnessDimmed { get; private set; } = false;
 
-    public Image dimmingPanel; // UI Image that covers the entire screen for dimming
+    public Image dimmingPanel; // For dimming
 
     void Start()
     {
@@ -37,10 +37,7 @@ public class BrightnessToggle : MonoBehaviour, IPointerClickHandler
         // Start with dimming panel fully transparent
         dimmingPanel.color = new Color(0, 0, 0, 0);
 
-        // Set initial slider value
         dimSlider.value = dimAmount;
-
-        // Add listener to dimSlider
         dimSlider.onValueChanged.AddListener(AdjustDimness);
     }
 
