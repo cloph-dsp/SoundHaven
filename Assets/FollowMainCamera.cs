@@ -11,10 +11,7 @@ public class FollowMainCamera : MonoBehaviour
 
     void Update()
     {
-        // Set the position of the light to the position of the main camera
         transform.position = mainCamera.position;
-
-        // Set the rotation of the light to the rotation of the main camera
         transform.rotation = mainCamera.rotation;
     }
 }
