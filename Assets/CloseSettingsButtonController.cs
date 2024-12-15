@@ -13,8 +13,8 @@ public class CloseSettingsButtonController : MonoBehaviour
 
     void CloseSettings()
     {
-        Debug.Log("CloseSettings called"); // Debug message
-        if (settingsMenuController != null) // Add a null check
+        Debug.Log("CloseSettings called");
+        if (settingsMenuController != null)
         {
             settingsMenuController.ToggleMenu();
         }
