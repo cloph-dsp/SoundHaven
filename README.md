@@ -16,12 +16,11 @@ Read the full dissertation (in Portuguese) [here](https://recil.ulusofona.pt/ite
 - [Credits](#credits)
 
 ## Features
-- Touch-based movement & rotation
-- Interactive UI for placing and controlling sound sources
-- Audio quality presets and depth-of-field effects
-- Gyroscope toggle for device orientation controls
-- Real-time audio spatialization using ResonanceAudio plugin
-- Custom input module optimized for mobile devices
+| Category     | Details                                                               |
+|--------------|-----------------------------------------------------------------------|
+| Controls     | Touch movement & rotation<br>Gyroscope toggle                         |
+| Audio        | Real-time spatialization via ResonanceAudio<br>Quality presets & depth-of-field |
+| UI & Input   | Interactive placement & control of sound sources<br>Mobile-optimized input module |
 
 ## Demo
 [![Watch the Demo](https://img.youtube.com/vi/7A92wuLIImw/0.jpg)](https://youtu.be/7A92wuLIImw)
@@ -52,7 +51,6 @@ cd SoundHaven
 
 ### UI Buttons
 - **Play/Pause**: Toggle audio playback.
-- **Gyro**: Enable/disable gyroscope controls.
 - **Settings**: Open settings panel to adjust audio quality (Low/High), toggle depth-of-field, and enable/disable gyroscope input.
 
 ## Project Structure
