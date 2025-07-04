@@ -27,13 +27,13 @@ Read the full dissertation (in Portuguese) [here](https://recil.ulusofona.pt/ite
 
 ## Getting Started
 ### Prerequisites
-- Unity 2023.1.20f1 (see `ProjectSettings/ProjectVersion.txt`)
+- Unity 2023.1.20f1
 - Android/iOS Build Support for mobile deployment
 
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/<username>/SoundHaven.git
+git clone https://github.com/clpoh-dsp/SoundHaven.git
 cd SoundHaven
 
 # Open in Unity Hub or Unity Editor
@@ -43,15 +43,6 @@ cd SoundHaven
 1. Open the project in Unity 2023.1.20f1.
 2. Load the scene: `Assets/Scenes/v0.01.unity`.
 3. Click **Play** in the Editor or build to your target device.
-
-## Controls
-### Mobile (Touch Input)
-- Left half of the screen: Move character.
-- Right half of the screen: Rotate camera.
-
-### UI Buttons
-- **Play/Pause**: Toggle audio playback.
-- **Settings**: Open settings panel to adjust audio quality (Low/High), toggle depth-of-field, and enable/disable gyroscope input.
 
 ## Project Structure
 ```
