@@ -24,7 +24,9 @@ Read the full dissertation (in Portuguese) [here](https://recil.ulusofona.pt/ite
 - Custom input module optimized for mobile devices
 
 ## Demo
-[![Watch the Demo](https://img.youtube.com/vi/7A92wuLIImw/0.jpg)](https://youtu.be/7A92wuLIImw)
+<div align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/7A92wuLIImw" title="SoundHaven Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## Getting Started
 ### Prerequisites
