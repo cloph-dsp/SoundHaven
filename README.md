@@ -9,7 +9,6 @@ Read the full dissertation (in Portuguese) [here](https://recil.ulusofona.pt/ite
 - [Features](#features)
 - [Demo](#demo)
 - [Getting Started](#getting-started)
-- [Controls](#controls)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
 - [License](#license)
