@@ -2,7 +2,7 @@
 ![Unity Version](https://img.shields.io/badge/Unity-2023.1.20f1-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
-SoundHaven is an experimental Unity prototype for mobile Virtual Auditory Spaces (VAS), created as part of my master's dissertation to explore interactive spatial audio.
+SoundHaven is an experimental Unity prototype for mobile Virtual Auditory Spaces (VAS), created as part of my master's dissertation to explore interactive spatial audio using Google's Resonance Audio for real-time spatialization.
 Read the full dissertation (in Portuguese) [here](https://recil.ulusofona.pt/items/345ce9f3-39ac-4eb1-92c4-3f8d081a7f37).
 
 ## Table of Contents
@@ -12,7 +12,6 @@ Read the full dissertation (in Portuguese) [here](https://recil.ulusofona.pt/ite
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
 - [License](#license)
-- [Credits](#credits)
 
 ## Features
 | Category     | Details                                                               |
@@ -59,7 +58,3 @@ Contributions are welcome! Please fork this repository and submit a pull request
 
 ## License
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-
-## Credits
-- **Developer**: kastru
-- **Audio Plugin**: ResonanceAudio
