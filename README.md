@@ -25,7 +25,7 @@ Read the full dissertation (in Portuguese) [here](https://recil.ulusofona.pt/ite
 
 ## Demo
 <div align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/7A92wuLIImw" title="SoundHaven Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/7A92wuLIImw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ## Getting Started
