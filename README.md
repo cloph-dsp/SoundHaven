@@ -3,6 +3,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 SoundHaven is an experimental Unity prototype for mobile Virtual Auditory Spaces (VAS), created as part of my master's dissertation to explore interactive spatial audio.
+Read the full dissertation (in Portuguese) [here](https://recil.ulusofona.pt/items/345ce9f3-39ac-4eb1-92c4-3f8d081a7f37).
 
 ## Table of Contents
 - [Features](#features)
