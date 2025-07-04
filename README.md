@@ -24,9 +24,7 @@ Read the full dissertation (in Portuguese) [here](https://recil.ulusofona.pt/ite
 - Custom input module optimized for mobile devices
 
 ## Demo
-<div align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/7A92wuLIImw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+[![Watch the Demo](https://img.youtube.com/vi/7A92wuLIImw/0.jpg)](https://youtu.be/7A92wuLIImw)
 
 ## Getting Started
 ### Prerequisites
